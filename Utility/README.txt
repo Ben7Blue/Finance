@@ -1,3 +1,5 @@
+A program that I created so that I can quickly distribute the house utility bill between my roommates.
+
 The Idea of this program was to distribute the house utility bill based on the amount of days
 	the tenants used.
 
